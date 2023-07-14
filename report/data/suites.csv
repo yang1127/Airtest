@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Jul 14 16:19:24 CST 2023","Fri Jul 14 16:19:24 CST 2023","0","test_cases.ddt_demo","test_ddt","TestDemo","","","test_ddt[admin-123456]",""
+"passed","Fri Jul 14 16:19:37 CST 2023","Fri Jul 14 16:20:02 CST 2023","25385","test_cases.test_demo","test_demo","TestDemo","","","test_reg_success",""

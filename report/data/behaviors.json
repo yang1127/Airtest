@@ -1,0 +1,51 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "测试DDT模块",
+    "children" : [ {
+      "name" : "test_ddt[admin-123456]",
+      "uid" : "a70f63af262a20e4",
+      "parentUid" : "2717fd61782769e65a0bafe000f62f1a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689322764164,
+        "stop" : 1689322764164,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "'123456'", "'admin'" ]
+    } ],
+    "uid" : "2717fd61782769e65a0bafe000f62f1a"
+  }, {
+    "name" : "测试小米运动模块",
+    "children" : [ {
+      "name" : "小米Life-步数1",
+      "children" : [ {
+        "name" : "test_reg_success",
+        "uid" : "def2ead05c9161a2",
+        "parentUid" : "53aa35c0c4d651c495c31565b9f783ef",
+        "status" : "passed",
+        "time" : {
+          "start" : 1689322777340,
+          "stop" : 1689322802725,
+          "duration" : 25385
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "53aa35c0c4d651c495c31565b9f783ef"
+    } ],
+    "uid" : "3c7dc4ebce7859b3daef2f4bb3e945ab"
+  } ]
+}

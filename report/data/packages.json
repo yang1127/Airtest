@@ -1,0 +1,51 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "test_cases",
+    "children" : [ {
+      "name" : "ddt_demo.test_ddt",
+      "children" : [ {
+        "name" : "test_ddt[admin-123456]",
+        "uid" : "a70f63af262a20e4",
+        "parentUid" : "71c849184ab1e0607db5f47b199e024e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1689322764164,
+          "stop" : 1689322764164,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'123456'", "'admin'" ]
+      } ],
+      "uid" : "ddt_demo.test_ddt"
+    }, {
+      "name" : "test_demo.test_demo",
+      "children" : [ {
+        "name" : "test_reg_success",
+        "uid" : "def2ead05c9161a2",
+        "parentUid" : "da6194f27c008bdf9ba8e033733bb5c3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1689322777340,
+          "stop" : 1689322802725,
+          "duration" : 25385
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "test_demo.test_demo"
+    } ],
+    "uid" : "2f5e813f34afdf02067fd6c5958321ba"
+  } ]
+}
