@@ -7,4 +7,5 @@ emulator_dict = {
     # '天天': 'adb connect 127.0.0.1:6555',
     # '海马玩': 'adb connect 127.0.0.1:26744',
     # 'BlueStacks': 'adb connect 127.0.0.1:5555'
+    ## 11
 }
